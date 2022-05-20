@@ -1,0 +1,6 @@
+Complexity Analysis: 
+
+    Time Complexity: O(n log n). 
+    Time complexity to find the distance from the origin for every point is O(n) and to sort the array is O(n log n)
+    Space Complexity: O(n). 
+    As we are making an array to store distance from the origin for each point.
